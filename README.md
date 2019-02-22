@@ -5,6 +5,8 @@ The idea is to break as many bricks as you can before they touch the ground. You
 * SpriteKit
 * UserDefaults
 
+<img src="Documentation/icon200x200@1x.png"/>
+
 <img src="Documentation/start.png"/>
 
 <img src="Documentation/howtoplay.png"/>
